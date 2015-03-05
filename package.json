@@ -1,6 +1,6 @@
 {
   "name": "postbox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Templated mailing middleware wrapping jade, juice, nodemailer",
   "repository": "https://github.com/Daeik/postbox",
   "main": "index.js",
