@@ -1,0 +1,16 @@
+{
+	"provider": {
+		"service": "Mandrill",
+		"auth": {
+		    "user": "your@email.com",
+		    "pass": "yourpassword",
+		    "host": "smtp.mandrillapp.com",
+		    "port": 587
+		}
+	},
+	"sendTo": {
+		"from": "Postbox Test <service@modnit.com>",
+		"to": "your@receiver.com",
+		"subject": "Testing postbox!"
+	}
+}
