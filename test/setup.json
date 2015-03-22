@@ -9,7 +9,7 @@
 		}
 	},
 	"sendTo": {
-		"from": "Postbox Test <service@modnit.com>",
+		"from": "Postbox Test <your@email.com>",
 		"to": "your@receiver.com",
 		"subject": "Testing postbox!"
 	}
